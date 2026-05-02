@@ -178,24 +178,12 @@ java CSRP
 
 ## 📌 Conclusion
 
-This project demonstrates a **real-world application of Java programming concepts** with enhanced UI and user interaction.  
-
-It is suitable for:
-* Academic submission  
-* Java project portfolio  
-* Understanding software design principles  
+This project demonstrates a **real-world application of Java programming concepts** with enhanced user interaction.  
 
 ---
 
 ## 👩‍💻 Author
 
-**Adapa Divya Sri**
+**Adapa Divya sri**
 
 ---
-
-## ✅ Final Note
-
-✔ Clean  
-✔ Complete  
-✔ Professional  
-✔ Ready for GitHub  
